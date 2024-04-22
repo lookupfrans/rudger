@@ -2,6 +2,10 @@ body {
   font-family: 'Amatic SC', cursive;
 }
 
+.loader > image-title.clicked {
+  pointer-events:none;
+}
+
 input[type=text] {
   border-bottom: 2px solid #fff;
   background: black;
