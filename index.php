@@ -53,7 +53,7 @@ i {
 
 <body oncontextmenu="return false">
   <div class="loader" style="text-align:center;height:100vh; width:100vw;overflow:hidden;background:#000;">
-    <img class="image-title" alt="" src="logo_one.png" style="pointer-events:none;margin-top:120px;width: 25%; height:50%;position:absolute;line-heignt:50%;"/>
+    <img class="image-title" alt="" src="logo_two.png" style="pointer-events:none;margin-top:120px;width: 25%; height:50%;position:absolute;line-heignt:50%;"/>
     <div></div>
   </div>
   <div class="content">
