@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stevenhoven Store</title>
+    <title>Rudger Store</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -99,7 +99,7 @@
     </div>--->
     <div class="content">
         <div class="container">
-            <h2 style="font-size:30px;">Stevenhoven Store</h2>
+            <h2 style="font-size:30px;">Rudger Store</h2>
 
             <nav>
                 <ul>
