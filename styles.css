@@ -157,7 +157,6 @@ img {
 
 img:hover {
   transform: scale(1.9);
-  cursor: pointer;
 }
 
 .form-control {
