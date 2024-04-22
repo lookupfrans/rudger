@@ -12,7 +12,7 @@ include('header.php');
   <title>Rudger Store</title>
   <link rel="stylesheet" href="responsive.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <link rel="icon" type="image/png" sizes="180x180" href="favo.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="favo_one.png">
   <style>
     .heading {
       margin-left: 250px;
