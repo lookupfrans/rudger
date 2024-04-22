@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Stevenhoven Store</title>
+  <title>Rudger Store</title>
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Amatic+SC&amp;display=swap" rel="stylesheet">
@@ -59,7 +59,7 @@ i {
   <div class="content">
 
   <div id="app" class="container">
-    <h2>Stevenhoven Store</h2>
+    <h2>Rudger Store</h2>
     <h3>Min 200.000</h3>
     <div class="text-right"><span class="cartcount">{{cartItems.length}} item(s) di keranjang</span></div>
 
@@ -194,13 +194,13 @@ i {
               <tr>
                 <td>
                 <td style="font-size:20px;text-align:center;"><input type="checkbox" class="myCheck" required>Dengan
-                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="ua.php"> Ketentuan dan Privasi Stevenhoven
+                  menekan tombol proses, anda telah paham dan setuju terhadap <a href="ua.php"> Ketentuan dan Privasi Rudger
                     Store</a></td>
                 </td>
               </tr>
             </table>
           </form><br/>
-          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; Stevenhoven Store</h6>
+          <h6 style="text-align:right;font-size:20px;font-weight:bold;color:#fff;">&#169; Rudger Store</h6>
         </div>
 
         <div id="message"></div>
