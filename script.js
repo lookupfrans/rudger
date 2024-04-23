@@ -68,7 +68,7 @@ const vm = new Vue({
         this.cartItems.push(Vue.util.extend({}, itemToAdd));
       }
 
-      itemToAdd.qty = 1;
+      itemToAdd.qty = 0;
     }
   }
 });
