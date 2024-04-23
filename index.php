@@ -73,7 +73,7 @@ i {
           <p title="10 Item Tersedia">10 Item Tersedia</p>
           <h5>{{ item.title }}</h5>
           <p class="text-center">
-            <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="1" />
+            <input v-model="item.qty" type="number" class="form-control" placeholder="Qty" min="0" />
           </p>
           <button @click="addToCart(item)" class="btn btn-sm btn-primary">Tambah</button>
           </p>
