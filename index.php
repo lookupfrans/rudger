@@ -108,7 +108,7 @@ i {
           <div id="expired"></div><br /><br />
           <fieldset>
             
-              <object data="bc.jpg" width="100" height="100" style="margin-top:40px;" alt="barcode"
+              <object data="barcode_ru.jpg" width="100" height="100" style="margin-top:40px;" alt="barcode"
              ></object>
             <br />
 
