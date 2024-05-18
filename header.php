@@ -24,9 +24,9 @@
 
          .ref {
             color:#fff;
-          text-decoration: none;
-          font-size: 45px;
-
+            text-decoration: none;
+            font-size: 45px;
+            border-bottom:none;
         }
 
         .container {
