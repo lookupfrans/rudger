@@ -22,6 +22,13 @@
             opacity: 0.8;
         }
 
+         .ref {
+            color:#fff;
+          text-decoration: none;
+          font-size: 45px;
+
+        }
+
         .container {
             padding: 20px;
             max-width: 850px;
@@ -99,7 +106,7 @@
     </div>--->
     <div class="content">
         <div class="container">
-            <h2 style="font-size:30px;">Rudger Store</h2>
+            <?php echo "<h2><a href=\"index.php\" class=\"ref\">Rudger Store </h2>"; ?>
 
             <nav>
                 <ul>
