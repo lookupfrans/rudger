@@ -10,7 +10,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="icon" type="image/png" sizes="180x180" href="favo_one.png">
     <style>
-        /*h2 {
+        *h2 {
             font-size: 30px;
             border-bottom: 1px solid #000;
             padding-bottom: 0px;
@@ -20,7 +20,7 @@
             margin-left: 190px;
             width: 100%;
             opacity: 0.8;
-        }*/
+        }
 
          .ref {
             color:#fff;
