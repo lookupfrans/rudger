@@ -10,8 +10,6 @@
   <link rel="stylesheet" type="text/css" href="responsive.css">
   <link rel="icon" type="image/png" sizes="180x180" href="favo_one.png">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3624269353063512"
-     crossorigin="anonymous"></script>
     <style>
       .content {
   display: none;
