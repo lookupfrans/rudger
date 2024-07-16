@@ -18,7 +18,7 @@
             font-size: 90px;
             font-weight: bold;
             margin-left: 190px;
-            width: 100%;
+            width: 0%;
             opacity: 0.8;
         }
 
