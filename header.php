@@ -32,7 +32,7 @@
 
         .container {
             padding: 0px;
-            max-width: 850px;
+            max-width: 650px;
         }
 
         nav ul {
