@@ -20,6 +20,7 @@
             margin-left: 190px;
             width: 0%;
             opacity: 0.8;
+            margin: 0px;
         }
 
          .ref {
