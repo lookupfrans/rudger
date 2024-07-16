@@ -31,8 +31,9 @@
         }
 
         .container {
-            padding: 0px;
-            max-width: 650px;
+            padding: 20px;
+            max-width: 850px;
+            margin:0;
         }
 
         nav ul {
