@@ -27,6 +27,7 @@
             text-decoration: none;
             font-size: 45px;
             border-bottom:none;
+            margin: 0;
         }
 
         .container {
