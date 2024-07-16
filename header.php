@@ -13,7 +13,7 @@
         h2 {
             font-size: 30px;
             border-bottom: 1px solid #000;
-            padding-bottom: 5px;
+            padding-bottom: 0px;
             font-family: 'Amatic SC', sans-serif;
             font-size: 90px;
             font-weight: bold;
@@ -30,7 +30,7 @@
         }
 
         .container {
-            padding: 20px;
+            padding: 0px;
             max-width: 850px;
         }
 
@@ -99,11 +99,6 @@
 </head>
 
 <body>
-    <!---<div class="loader" style="text-align:center;height:auto; width:100vw;background-color:#000">
-        <img class="image-title" alt="" src="mylogo.png"
-            style="margin-top:120px;width: 25%; height:50%;text-align:center;" />
-        <div></div>
-    </div>--->
     <div class="content">
         <div class="container">
             <?php echo "<h2><a href=\"index.php\" class=\"ref\">Rudger Store </h2>"; ?>
